@@ -27,6 +27,14 @@ SESION 5 – DESCRIPCIONES
 Carga una imagen y permite escalarla sin deformarla, aumentando o disminuyendo su tamaño en tiempo real. 
 
 Controles 
++ Aumenta el tamaño 
+
+-Disminuye el tamaño 
+
+### sesion5_ej2.py — Sprite animado 
+
+Carga una hoja de sprites con 4 imágenes y reproduce una animación cambiando de frame cada 100 ms,la animación se repite en bucle. 
+
 ### sesion5_mini.py — Nave que rota hacia el mouse 
 
 La nave rota automáticamente para apuntar hacia el cursor del mouse. 
