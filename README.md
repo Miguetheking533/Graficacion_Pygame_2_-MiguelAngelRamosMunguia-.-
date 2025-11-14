@@ -31,9 +31,12 @@ Controles
 
 -Disminuye el tamaño 
 
+ruta de imagen: C:\\Users\\PC\\Downloads\\MX_logo.png
+
 ### sesion5_ej2.py — Sprite animado 
 
 Carga una hoja de sprites con 4 imágenes y reproduce una animación cambiando de frame cada 100 ms,la animación se repite en bucle. 
+ruta de imagen: C:\\Users\\PC\\Downloads\\humans.jpg
 
 ### sesion5_mini.py — Nave que rota hacia el mouse 
 
@@ -47,23 +50,8 @@ Controles
 + → Aumenta el tamaño 
 
 - → Disminuye el tamaño
+ruta de imagen:C:\\Users\\PC\\Downloads\\nave.png
 
-  ### sesion5_ej2.py — Sprite animado 
-
-Carga una hoja de sprites con 4 imágenes y reproduce una animación cambiando de frame cada 100 ms. 
-
- La animación se repite en bucle. 
-
- 
-### sesion5_mini.py — Nave que rota hacia el mouse 
-
-La nave rota automáticamente para apuntar hacia el cursor del mouse. 
-
- El jugador puede mover la nave en cualquier dirección, simulando un movimiento tipo “spaceship”. 
-
-Controles 
-
-Flechas ← → ↑ ↓ → Mover al jugador 
 
 SESION 6 – DESCRIPCIONES 
 
@@ -108,3 +96,5 @@ A → Izquierda
 S → Abajo 
 
 D → Derecha 
+
+ruta de imagen : C:\\Users\\PC\\Downloads\\nave.png
