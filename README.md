@@ -1,6 +1,6 @@
 # Graficacion_Pygame_2_-MiguelAngelRamosMunguia-.-
 
-#SESION 4 – DESCRIPCIONES 
+SESION 4 – DESCRIPCIONES 
 
 ### sesion4_ej1.py — Rebote con velocidad variable 
 
@@ -20,7 +20,7 @@ Simula un círculo cayendo bajo gravedad.
  Cada vez que toca el suelo, rebota con menos energía (80%), hasta detenerse. 
 
 
-#SESION 5 – DESCRIPCIONES 
+SESION 5 – DESCRIPCIONES 
 
 ### sesion5_ej1.py — Ajuste de tamaño dinámico 
 
@@ -54,6 +54,16 @@ La nave rota automáticamente para apuntar hacia el cursor del mouse.
  El jugador puede mover la nave en cualquier dirección, simulando un movimiento tipo “spaceship”. 
 
 Controles 
+
+Flechas ← → ↑ ↓ → Mover al jugador 
+
+SESION 6 – DESCRIPCIONES 
+
+### sesion6_ej1.py — Colisión con cambio de color 
+
+El jugador controla un rectángulo azul y debe acercarse al objetivo rojo, al tocarlo, el rectángulo cambia a color verde. 
+
+ Controles 
 
 Flechas ← → ↑ ↓ → Mover al jugador 
 
